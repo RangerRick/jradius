@@ -123,7 +123,7 @@
       <dependency>
         <groupId>gnu.getopt</groupId>
         <artifactId>java-getopt</artifactId>
-        <version>1.0.13.redhat-5</version>
+        <version>1.0.13</version>
       </dependency>
       <!-- TODO: port to org.ehcache:ehcache -->
       <dependency>
